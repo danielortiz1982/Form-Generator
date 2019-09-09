@@ -1,8 +1,10 @@
-const express = require('express')
+const express   = require('express')
 const app = express()
 
+app.use(express.static(__dirname + '/pub'))
+
 app.get('/', (req, res)=>{
-    res.status(200).send('Hello')
+    res.status(200).sendfile('index.html')
 })
 
 
