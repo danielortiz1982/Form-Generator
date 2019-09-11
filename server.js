@@ -7,8 +7,6 @@ app.get('/', (req, res)=>{
     res.status(200).sendfile('index.html')
 })
 
-
-
 app.listen(3000, ()=>{
     console.log('server is running on Port 3000')
 })

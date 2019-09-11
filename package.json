@@ -4,6 +4,7 @@
   "description": "Form Generator is a lightweight JavaScript library that builds dynamic forms from a json config object",
   "main": "server.js",
   "scripts": {
+    "styles": "sass pub/styles/sass/main.sass pub/styles/dist/main.css",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
