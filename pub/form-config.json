@@ -10,7 +10,7 @@
             "FormLabel": "Input:",
             "id": "BV-input",
             "class": "BV-input",
-            "placeholder": "",
+            "placeholder": "sample placeholder",
             "value": "",
             "type": "text"
         },

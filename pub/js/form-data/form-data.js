@@ -1,6 +1,6 @@
 const SampleForm = {
     "FormName": "BVForgotPassword",
-    "FormAction": "ccc",
+    "FormAction": "some-action",
     "Insert": "BV-form",
     "payload": {},
     "FormConponents": [
@@ -10,7 +10,7 @@ const SampleForm = {
             "FormLabel": "Input:",
             "id": "BV-input",
             "class": "BV-input",
-            "placeholder": "",
+            "placeholder": "sample placeholder",
             "value": "",
             "type": "text"
         },

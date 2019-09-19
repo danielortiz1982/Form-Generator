@@ -1,6 +1,6 @@
 {
   "name": "form-generator",
-  "version": "1.0.0",
+  "version": "2.1.0",
   "description": "Form Generator is a lightweight JavaScript library that builds dynamic forms from a json config object",
   "main": "server.js",
   "scripts": {

@@ -13,7 +13,7 @@ class BVFormGenerator{
         let InsertFormCondition = FormWrapper === "" || FormContainer == null
         let FormConponents      = form.FormConponents
 
-        form.FormAction === "" ? BVFORM.setAttribute("id", formName) : BVFORM.action = form.FormAction
+        form.FormAction === ("" || undefined) ? BVFORM.setAttribute("id", formName) : BVFORM.action = form.FormAction
         
         FormConponents.forEach((el, index, array)=>{
             
