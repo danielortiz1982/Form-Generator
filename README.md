@@ -29,8 +29,8 @@
 ## ES6 Form Generator Usage
 
 ##### Clone Form Generator into project
-    https://github.com/danielortiz1982/Form-Generator.git
-
+    git clone https://github.com/danielortiz1982/Form-Generator.git
+    
 ##### (Optional) Remove/Delete Demo directory
      rm -rf Demo
 
