@@ -37,10 +37,13 @@
      rm -rf Demo
 
 ##### Import the Form Generator
-    import FormGenerator from './FormGenerator'
+    import FG from './FormGenerator'
 
 ##### Import Form Generator JSON configuration
     import Data from './form-data/form-config.json'
+
+##### Invoke the newForm method and pass in the form data object
+    FG.FormGenerator.newForm(Data)
 
 ## Demo Usage
 > Once you have cloned the Form Generator repo into your project navigate to the Demo directory to see a working example.
