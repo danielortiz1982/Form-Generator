@@ -5,6 +5,7 @@
 ## Dependencies
 * Nodejs
 * NPM
+* Git
 * Babel 
 * Webpack 
 
@@ -17,4 +18,18 @@
     npm install -g --save-dev @babel/core @babel/cli
 
 ##### Install webpack & webpack-cli globally on your machine
-    npm install -g --save-dev webpack
+    npm install -g --save-dev webpack webpack-cli
+
+## ES6 Form Generator Usage
+
+##### Clone Form Generator into project
+    https://github.com/danielortiz1982/Form-Generator.git
+
+##### (Optional) Remove/Delete Demo directory
+     rm -rf Demo
+
+##### Import the Form Generator
+    import FormGenerator from './FormGenerator'
+
+##### Import Form Generator JSON configuration
+    import Data from './form-data/form-config.json'

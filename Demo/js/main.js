@@ -1,7 +1,4 @@
 import FormGenerator from './FormGenerator'
-import Data from './form-data/form-data'
+import Data from './form-data/form-config.json'
 
-let sample = FormGenerator
-sample.BVFormGenerator.newForm(Data)
-
-
+FormGenerator.BVFormGenerator.newForm(Data)

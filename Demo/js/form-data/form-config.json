@@ -1,6 +1,6 @@
-const SampleForm = {
-    "FormName": "BVForgotPassword",
-    "FormAction": "some-action",
+{
+    "FormName": "smaple-form",
+    "FormAction": "ccc",
     "Insert": "BV-form",
     "payload": {},
     "FormConponents": [
@@ -247,5 +247,3 @@ const SampleForm = {
         }
     ]
 }
-
-module.exports = SampleForm
