@@ -33,3 +33,20 @@
 
 ##### Import Form Generator JSON configuration
     import Data from './form-data/form-config.json'
+
+## Demo Usage
+> Once you have cloned the Form Generator repo into your project navigate to the Demo directory to see a working example.
+
+## Install Demo Dependencies
+
+##### Change directories into the **Demo** folder
+    cd ./Demo
+
+##### Install the Nodejs Dependencies
+    npm install
+
+##### Run the demo Nodejs server 
+    node server.js
+
+##### You can now view a working demo whe you visit the URL below 
+    http://localhost:3000/
