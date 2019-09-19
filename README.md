@@ -4,7 +4,7 @@
 
 ## Documentation Menu 
 
-> [Dependencies](#dependencies) | [Usage](#es6-form-generator-usage) | [Demo](#demo-usage) | [FG JSON configuration](#formgenerator-json-configuration)
+> [Dependencies](#dependencies) | [Usage](#es6-form-generator-usage) | [Demo](#demo-usage) | [FG JSON configuration](#form-generator-json-configuration)
 
 ## Dependencies
 * Nodejs
