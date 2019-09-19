@@ -1,6 +1,6 @@
 {
     "FormName": "FGForgotPassword",
-    "FormAction": "ccc",
+    "FormAction": "sample-action",
     "Insert": "FG-form",
     "payload": {},
     "FormConponents": [

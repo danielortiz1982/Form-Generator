@@ -46,7 +46,7 @@
     FG.FormGenerator.newForm(Data)
 
 ## Demo Usage
-> Once you have cloned the Form Generator repo into your project navigate to the Demo directory to see a working example.
+> Once you have cloned the Form Generator repo into your project, navigate to the Demo directory to see a working example.
 
 ## Install Demo Dependencies
 
