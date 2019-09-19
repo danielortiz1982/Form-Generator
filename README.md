@@ -24,7 +24,7 @@
 ##### Install SASS/SCSS on your machine
 > **Demo Dependencies Only**
 
-    npm install -g SASS
+    npm install -g sass
 
 ## ES6 Form Generator Usage
 
