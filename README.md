@@ -5,11 +5,11 @@
 > [Dependencies](#dependencies) | [Usage](#es6-form-generator-usage) | [Demo](#demo-usage) | [FG JSON configuration](#form-generator-json-configuration)
 
 ## Dependencies
-* Nodejs
-* NPM
-* Git
-* Babel 
-* Webpack
+* [Nodejs](https://nodejs.org/en/)
+* [NPM](https://nodejs.org/en/)
+* [Git](https://git-scm.com/)
+* [Babel](https://babeljs.io/)
+* [Webpack](https://webpack.js.org/)
 * **(Demo Dependencies)** SASS/SCSS
 
 ### Install Nodejs & NPM for Windows, OSX and Linux
