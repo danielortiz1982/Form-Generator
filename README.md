@@ -2,6 +2,8 @@
 
 > Form Generator is a lightweight JavaScript library that builds dynamic forms from a json config object.
 
+[Usage](#es6-form-generator-usage)
+
 ## Dependencies
 * Nodejs
 * NPM
