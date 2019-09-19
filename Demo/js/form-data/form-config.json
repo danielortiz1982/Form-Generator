@@ -1,6 +1,6 @@
 {
     "FormName": "smaple-form",
-    "FormAction": "ccc",
+    "FormAction": "sample",
     "Insert": "BV-form",
     "payload": {},
     "FormConponents": [

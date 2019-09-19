@@ -7,7 +7,8 @@
 * NPM
 * Git
 * Babel 
-* Webpack 
+* Webpack
+* **(Demo Dependencies)** SASS/SCSS
 
 ### Install Nodejs & NPM for Windows, OSX and Linux
 [https://nodejs.org](https://nodejs.org/en/)
@@ -19,6 +20,11 @@
 
 ##### Install webpack & webpack-cli globally on your machine
     npm install -g --save-dev webpack webpack-cli
+
+##### Install SASS/SCSS on your machine
+> **Demo Dependencies Only**
+
+    npm install -g SASS
 
 ## ES6 Form Generator Usage
 
@@ -45,8 +51,18 @@
 ##### Install the Nodejs Dependencies
     npm install
 
-##### Run the demo Nodejs server 
-    node server.js
+##### Build JavaScript assets 
+    npm run build
 
-##### You can now view a working demo whe you visit the URL below 
+##### Build SASS assets 
+    npm run styles
+
+##### Start the demo Node server 
+    npm run server
+
+##### You can now view a working demo when you visit the URL below 
     http://localhost:3000/
+
+
+
+ 
