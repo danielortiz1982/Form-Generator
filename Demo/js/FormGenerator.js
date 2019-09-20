@@ -19,6 +19,7 @@ class FormGenerator{
             
             const FormField     = window.document.createElement("div")
             const FormLabel     = window.document.createElement("label")
+            FormField.id = `component-${index}`
             FormField.setAttribute("class", `form-component`)
             FormField.dataset.component = `component-${index}`
 
