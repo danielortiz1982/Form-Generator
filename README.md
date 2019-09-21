@@ -24,7 +24,7 @@
     npm install -g --save-dev webpack webpack-cli
 
 ##### Install SASS/SCSS on your machine
-> **Demo Dependencies Only**
+> **This dependency is for demo Only**
 
     npm install -g sass
 
